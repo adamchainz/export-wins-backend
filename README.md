@@ -1,10 +1,8 @@
 The data server component for the export-wins application, a backend providing APIs.
 
-See the corresponding project export-wins-ui and PROJECT_README.md
+See the corresponding projects export-wins-ui and export-wins-ui-mi and PROJECT_README.md
 
-Note, UI project will need to be rebooted after making changes to models of this project
-
-See the corresponding project export-wins-ui for more details
+Note, UI project will need to be rebooted after making changes to models of this project since it gets info on startup from this project
 
 Environment Variables you probably want to set
 -----------------------------------------------
